@@ -11,6 +11,8 @@ https://www81.zippyshare.com/v/6JHH2GDu/file.html сначала пере коп
 
 Скачайте 1.sh или создайте скопируйте текст ниже и вставьте этот текст в 1.sh и сделайте исполняемым и в терминале от суперпользователя выполните его , так же ошметки от старого ядра сохраняются в /lib/modules естественно удаляем оттуда старые остатки ядра не трогая 5.0.1
 
+My config setting compilation https://github.com/Griggorii/linux-kernel-5.0.1-deb-Griggorii-compilation/blob/master/config
+
 #!/bin/bash
 
 LOG="/root/Clean_system.log" GREEN="\033[1;32m" RED="\033[0;31m" YELLOW="\033[1;33m" ENDCOLOR="\033[0m"
